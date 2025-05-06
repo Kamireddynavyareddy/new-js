@@ -1,0 +1,8 @@
+function add(a,b){
+    console.log(a+b)
+}
+add(10,20)
+add(100,200)
+add("navya","vijay")
+add("nava")
+ add(10)
